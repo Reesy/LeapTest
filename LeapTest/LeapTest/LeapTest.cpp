@@ -36,6 +36,7 @@ int main()
 		const unsigned char* image_buffer = image.data();
 
 		}
+	
 	std::cout << "HEllo, world!";
 	std::cin.get();
 
